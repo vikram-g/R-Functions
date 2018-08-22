@@ -1,0 +1,16 @@
+Package: myFunctions
+Title: Vikram's own personla repo
+Version: 0.0.1
+Authors@R: person("Gunasekar", "Vikram", email = "vikram.gunasekar@gmail.com", role = c("aut", "cre"))
+Description: What the package does (one paragraph).
+Depends:
+    R (>= 3.3.0)
+Suggests:
+    foreach,
+    Information,
+    ggplot2,
+    dplyr
+Encoding: UTF-8
+LazyLoad: true
+LazyData: true
+RoxygenNote: 5.0.1
